@@ -60,10 +60,7 @@ img {
   align-items: center;
 }
 
-.mx-12 {
-  margin-left: 12px;
-  margin-right: 12px;
-}
+
 .mr-auto {
   margin-right: auto;
 }
@@ -109,9 +106,6 @@ img {
 
 .p-16 {
   padding: 16px;
-}
-.pt-32 {
-  padding-top: 32px;
 }
 .px-24 {
   padding-left: 24px;
